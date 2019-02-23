@@ -1,0 +1,42 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Nov 01 18:19:48 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000032
+.config_2007_UYGULAMA-32.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000018      
+                            0x002007    0x002007      
+            26 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+                  KONTROL   0x00000b    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+          KONTROL_TEMIZLE   0x000017    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+                      K_E   0x000011    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+                      K_S   0x000014    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+                  KONTROL   0x00000b    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+                      K_E   0x000011    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+                      K_S   0x000014    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+          KONTROL_TEMIZLE   0x000017    program     static D:\mikroislemciler\2018GuzDonemi\32.uygulama\uygulama-32.asm
+
+
